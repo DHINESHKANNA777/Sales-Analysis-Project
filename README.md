@@ -1,6 +1,6 @@
 Sales Analysis Project (Excel | SQL | Tableau)
 
-Project Overview:
+Project Overview:[Dashboard link](https://public.tableau.com/views/SalesAnalysisDashboard_17585307887200/Salesoverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 This project analyzes sales performance data to identify trends, growth opportunities, and key contributors to business revenue.
 The analysis was carried out using Excel for cleaning, SQL for practice in querying and aggregation, and Tableau for building interactive dashboards.
 The aim is to provide clear, data-driven insights that can support better decision-making.
