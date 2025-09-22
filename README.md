@@ -26,7 +26,7 @@ TopCustomers.csv → Revenue contribution by top customers
 
 All SQL queries used to clean, transform, and generate business-ready datasets are stored in:
 
-`sql_queries/sales_analysis_queries.sql`
+[SQL_queries file](https://github.com/DHINESHKANNA777/Sales-Analysis-Project/blob/main/Sales%20Analysis.sql)
 
 This file includes queries for:
 
