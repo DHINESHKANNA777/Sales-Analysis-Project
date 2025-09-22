@@ -83,15 +83,15 @@ Business Note: Introduce loyalty programs for high-value customers and expand th
 
 Recommendations:
 
-Prioritize Clothing & Electronics categories.
+* Prioritize Clothing & Electronics categories.
 
-Strengthen marketing in Mumbai & Indore, and invest in underperforming regions.
+* Strengthen marketing in Mumbai & Indore, and invest in underperforming regions.
 
-Launch customer loyalty/reward programs for top customers.
+* Launch customer loyalty/reward programs for top customers.
 
-Reassess Furniture sales strategy to improve profitability.
+* Reassess Furniture sales strategy to improve profitability.
 
-Closely monitor month-on-month growth for better forecasting.
+* Closely monitor month-on-month growth for better forecasting.
 
 
 Dashboard Preview:
@@ -104,7 +104,7 @@ Tools Used:
 
 Excel → Data cleaning & preparation
 
-SQL → clean, transform, and generate business-ready datasets
+SQL → Clean, transform, and generate business-ready datasets
 
 Tableau Public → Dashboard creation & visualization
 
