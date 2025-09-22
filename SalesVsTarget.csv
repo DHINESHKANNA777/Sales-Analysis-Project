@@ -1,0 +1,37 @@
+month,category,target,total_sales,target_status
+2018-04,Clothing,12000.00,23430.00,Target met & exceeded
+2018-04,Electronics,46860.00,23430.00,Target not met
+2018-04,Furniture,10400.00,23430.00,Target met & exceeded
+2018-05,Clothing,60000.00,28849.00,Target not met
+2018-05,Electronics,9000.00,28849.00,Target met & exceeded
+2018-05,Furniture,10500.00,28849.00,Target met & exceeded
+2018-06,Clothing,12000.00,23482.00,Target met & exceeded
+2018-06,Electronics,9000.00,23482.00,Target met & exceeded
+2018-06,Furniture,50600.00,23482.00,Target not met
+2018-07,Clothing,14000.00,14654.00,Target met & exceeded
+2018-07,Electronics,9000.00,14654.00,Target met & exceeded
+2018-07,Furniture,60800.00,14654.00,Target not met
+2018-08,Clothing,14000.00,21407.00,Target met & exceeded
+2018-08,Electronics,9000.00,21407.00,Target met & exceeded
+2018-08,Furniture,10900.00,21407.00,Target met & exceeded
+2018-09,Clothing,14000.00,30369.00,Target met & exceeded
+2018-09,Electronics,9000.00,30369.00,Target met & exceeded
+2018-09,Furniture,68000.00,30369.00,Target not met
+2018-10,Clothing,16000.00,27212.00,Target met & exceeded
+2018-10,Electronics,9000.00,27212.00,Target met & exceeded
+2018-10,Furniture,11100.00,27212.00,Target met & exceeded
+2018-11,Clothing,16000.00,19867.00,Target met & exceeded
+2018-11,Electronics,9000.00,19867.00,Target met & exceeded
+2018-11,Furniture,11300.00,19867.00,Target met & exceeded
+2018-12,Clothing,16000.00,33391.00,Target met & exceeded
+2018-12,Electronics,9000.00,33391.00,Target met & exceeded
+2018-12,Furniture,11400.00,33391.00,Target met & exceeded
+2019-01,Clothing,16000.00,31857.00,Target met & exceeded
+2019-01,Electronics,16000.00,31857.00,Target met & exceeded
+2019-01,Furniture,11500.00,31857.00,Target met & exceeded
+2019-02,Clothing,16000.00,22355.00,Target met & exceeded
+2019-02,Electronics,16000.00,22355.00,Target met & exceeded
+2019-02,Furniture,11600.00,22355.00,Target met & exceeded
+2019-03,Clothing,16000.00,35904.00,Target met & exceeded
+2019-03,Electronics,16000.00,35904.00,Target met & exceeded
+2019-03,Furniture,11800.00,35904.00,Target met & exceeded
