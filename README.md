@@ -96,7 +96,8 @@ Closely monitor month-on-month growth for better forecasting.
 
 Dashboard Preview:
 
-[Dashboard images](https://github.com/DHINESHKANNA777/Sales-Analysis-Project/blob/main/Sales%20Overview.png](https://github.com/DHINESHKANNA777/Sales-Analysis-Project/commit/8fab3a4d343e4488eed6d2e0760de68ded22dab0))
+[Sales overview](https://github.com/DHINESHKANNA777/Sales-Analysis-Project/blob/main/Sales%20Overview.png)
+[Insights & Breakdown]()
 
 
 Tools Used:
