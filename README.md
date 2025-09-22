@@ -1,12 +1,12 @@
-📊 Sales Analysis Project (Excel | SQL | Tableau)
+Sales Analysis Project (Excel | SQL | Tableau)
 
-🔹 Project Overview
+Project Overview:
 This project analyzes sales performance data to identify trends, growth opportunities, and key contributors to business revenue.
 The analysis was carried out using Excel for cleaning, SQL for practice in querying and aggregation, and Tableau for building interactive dashboards.
-
 The aim is to provide clear, data-driven insights that can support better decision-making.
 
-📂 Dataset
+
+Dataset:
 
 The project uses 6 prepared CSV files, processed from SQL queries
 
@@ -22,7 +22,8 @@ TopCities.csv → Revenue contribution by cities
 
 TopCustomers.csv → Revenue contribution by top customers
 
-📈 Dashboards Created
+
+Dashboards Created:
 
 1. Sales overview
 
@@ -40,7 +41,8 @@ Top Cities – Highlighting city-level revenue contributions
 
 Top Customers – Showing revenue from top-performing customers
 
-🔍 Key Insights
+
+Key Insights
 
 1. Monthly Sales Trend & MoM Growth
 
@@ -78,7 +80,8 @@ Top 5 customers contribute significantly, with Yaanvi & Pooja being the most val
 
 Business Note: Introduce loyalty programs for high-value customers and expand the customer base to reduce dependency.
 
-📌 Recommendations
+
+Recommendations:
 
 Prioritize Clothing & Electronics categories.
 
@@ -90,11 +93,12 @@ Reassess Furniture sales strategy to improve profitability.
 
 Closely monitor month-on-month growth for better forecasting.
 
-📸 Dashboard Preview
 
-![Dashboard Preview](images/Sales Overview.png))
+Dashboard Preview:
 
-⚙️ Tools Used
+![Dashboard Preview](Sales Overview.png))
+
+Tools Used:
 
 Excel → Data cleaning & preparation
 
@@ -102,4 +106,5 @@ SQL → clean, transform, and generate business-ready datasets
 
 Tableau Public → Dashboard creation & visualization
 
-✨ This project demonstrates the complete analysis process, from raw data to business insights and visualization, highlighting practical skills in Excel, SQL, and Tableau.
+
+This project demonstrates the complete analysis process, from raw data to business insights and visualization, highlighting practical skills in Excel, SQL, and Tableau.
