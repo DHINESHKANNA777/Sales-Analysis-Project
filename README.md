@@ -1,12 +1,12 @@
-Sales Analysis Project (Excel | SQL | Tableau) [Dashboard link](https://public.tableau.com/views/SalesAnalysisDashboard_17585307887200/Salesoverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Sales Analysis Project (Excel | SQL | Tableau) [Dashboard link](https://public.tableau.com/views/SalesAnalysisDashboard_17585307887200/Salesoverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Project Overview:
+## Project Overview:
 This project analyzes sales performance data to identify trends, growth opportunities, and key contributors to business revenue.
 The analysis was carried out using Excel for cleaning, SQL for practice in querying and aggregation, and Tableau for building interactive dashboards.
 The aim is to provide clear, data-driven insights that can support better decision-making.
 
 
-Dataset:
+## Dataset:
 
 The project uses 6 prepared CSV files, processed from SQL queries
 
@@ -22,8 +22,24 @@ TopCities.csv → Revenue contribution by cities
 
 TopCustomers.csv → Revenue contribution by top customers
 
+## SQL Queries
 
-Dashboards Created:
+All SQL queries used to clean, transform, and generate business-ready datasets are stored in:
+
+`sql_queries/sales_analysis_queries.sql`
+
+This file includes queries for:
+
+- Calculating **Monthly Sales**
+- Computing **Month-over-Month Growth**
+- Analyzing **Profit by Category**
+- Comparing **Sales vs Target**
+- Identifying **Top Cities**
+- Listing **Top Customers**
+
+
+
+## Dashboards Created:
 
 1. Sales overview
 
@@ -42,7 +58,7 @@ Top Cities – Highlighting city-level revenue contributions
 Top Customers – Showing revenue from top-performing customers
 
 
-Key Insights
+## Key Insights
 
 1. Monthly Sales Trend & MoM Growth
 
@@ -81,7 +97,7 @@ Top 5 customers contribute significantly, with Yaanvi & Pooja being the most val
 Business Note: Introduce loyalty programs for high-value customers and expand the customer base to reduce dependency.
 
 
-Recommendations:
+## Recommendations:
 
 * Prioritize Clothing & Electronics categories.
 
@@ -94,13 +110,13 @@ Recommendations:
 * Closely monitor month-on-month growth for better forecasting.
 
 
-Dashboard Preview:
+## Dashboard Preview:
 
 [Sales overview](https://github.com/DHINESHKANNA777/Sales-Analysis-Project/blob/main/Sales%20Overview.png)
 [Insights & Breakdown](https://github.com/DHINESHKANNA777/Sales-Analysis-Project/blob/main/Insights%26breakdown.png)
 
 
-Tools Used:
+## Tools Used:
 
 Excel → Data cleaning & preparation
 
