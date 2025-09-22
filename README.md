@@ -96,7 +96,7 @@ Closely monitor month-on-month growth for better forecasting.
 
 Dashboard Preview:
 
-![Dashboard Preview](Sales Overview.png))
+![Dashboard Preview](Dashboard images/Sales Overview.png))
 
 Tools Used:
 
