@@ -5,7 +5,7 @@ This project analyzes sales performance data to identify trends, growth opportun
 The analysis was carried out using Excel for cleaning, SQL for practice in querying and aggregation, and Tableau for building interactive dashboards.
 The aim is to provide clear, data-driven insights that can support better decision-making.
 
-##Problem Statement
+## Problem Statement
 A retail company wanted to understand its sales performance across different categories, cities, and customers. The management team asked:
 - Are our sales growing month-over-month?
 - Which product categories are most profitable?
@@ -13,7 +13,7 @@ A retail company wanted to understand its sales performance across different cat
 - Which cities and customers contribute the most revenue?
 - Where are we losing money due to returns or low margins?
 
-##Approach
+## Approach
 1. Data Understanding
    - Dataset sourced from Kaggle (Orders, Order_Details, Sales_Target).
    - Explored attributes: order details, sales amount, profit, categories, returns, sales targets.
